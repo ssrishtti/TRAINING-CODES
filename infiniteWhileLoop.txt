@@ -1,0 +1,10 @@
+
+-->> infinite while loop
+public class infiniteWhile
+{
+	public static void main(String[] args)
+	{
+	    while(true)
+	    System.out.println("its infinite while loop !!!");
+	}
+}

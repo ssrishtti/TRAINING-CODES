@@ -1,0 +1,14 @@
+-->> infinite do while loop
+public class infiniteDoWhile
+{
+	public static void main(String[] args)
+	{
+	    int i=1;
+	    System.out.println("multiple of 2 are: ");
+	    do
+	    {
+	       	System.out.println(i*2);
+            i++;
+	    }while(i>1);
+	}
+}
